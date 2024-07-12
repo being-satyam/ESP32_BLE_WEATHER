@@ -50,6 +50,7 @@ Scan for the BLE device and connect to it.
 5. View the data:
 
 Once connected, you will see the humidity and temperature data being updated in real-time on the app.
+
 6. Demo Video
 https://drive.google.com/file/d/13EsIrN_P-XaFQxG8OHh4GM5zmgdbsRU4/view?usp=sharing
 
