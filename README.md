@@ -13,7 +13,7 @@ This Arduino project measures humidity and temperature and sends the data over B
 
 1. **Clone the repository:**
    sh
-   git clone https://github.com/being-satyam/ESP32_BLE_WEATHER.git         https://github.com/being-satyam/Krishi_Mitra.git
+   git clone https://github.com/being-satyam/ESP32_BLE_WEATHER.git         
    cd BLE_Weather_Station
    
 2. Open the Arduino IDE:
